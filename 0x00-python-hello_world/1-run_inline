@@ -1,2 +1,2 @@
 #!/bin/bash
-print("Hello, there!")$PYCODE
+echo $PYCODE | python3
